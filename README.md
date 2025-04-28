@@ -18,6 +18,8 @@ pip install pynput
 Usage:
 Clone or download the script to your local machine.
 
+git clone https://github.com/CHRISTIANARIBAL/Key-Logger.git
+
 Open the command line or terminal and navigate to the directory where the script is saved.
 
 Run the script with:
